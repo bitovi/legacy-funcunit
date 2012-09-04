@@ -1,4 +1,4 @@
-steal("funcunit")
+steal("funcunit", "funcunit/qunit/qunit.css")
  .then("./actions_test.js")
  .then("./funcunit_test.js")
  .then("./iframe_test.js")
