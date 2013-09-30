@@ -2,6 +2,8 @@
 @parent javascriptmvc 3
 @group FuncUnit.pages Pages
 
+_Note: [FuncUnit Roadmap](http://forum.javascriptmvc.com/#Topic/32525000001436023)_
+
 FuncUnit tests web applications with a simple jQuery-like syntax. Via integration with
 [funcunit.selenium Selenium] and [funcunit.phantomjs PhantomJS], you can run the same tests automated.
 
